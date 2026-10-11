@@ -10,11 +10,11 @@
       "developerName": "Максим",
       "subtitle": "ИИ-диагност по данным OBD",
       "localizedDescription": "Читает данные с OBD-адаптера, разбирает смесь, лямбды, катализатор, коды и Mode $06 и даёт простой вердикт. Это ИИ-помощник, не человек: советы не заменяют осмотр машины.",
-      "version": "1.0",
-      "versionDate": "2026-10-11",
-      "versionDescription": "Новая сборка.",
-      "downloadURL": "https://github.com/Maverlix777/doktor-sidestore/releases/download/v1.0/Doktor.ipa",
-      "size": "662801",
+      "version": "1.0.1",
+      "versionDate": "2026-10-11T04:15:48+00:00",
+      "versionDescription": "Ford Mode 22, температура АКПП на экране, фиксы отчёта, разведка Lexus.",
+      "downloadURL": "https://github.com/Maverlix777/doktor-sidestore/releases/download/v1.0.1/Doktor.ipa",
+      "size": 665368,
       "tintColor": "#F5A623"
     }
   ],
