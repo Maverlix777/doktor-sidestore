@@ -1,0 +1,22 @@
+{
+  "name": "Доктор — гаражный источник",
+  "identifier": "com.garage.doktor.source",
+  "subtitle": "Обновления Доктора для SideStore",
+  "description": "Доктор — ИИ-диагност по данным OBD. Сборка для личной установки через SideStore.",
+  "apps": [
+    {
+      "name": "Доктор",
+      "bundleIdentifier": "com.garage.doktor.proto",
+      "developerName": "Максим",
+      "subtitle": "ИИ-диагност по данным OBD",
+      "localizedDescription": "Читает данные с OBD-адаптера, разбирает смесь, лямбды, катализатор, коды и Mode $06 и даёт простой вердикт. Это ИИ-помощник, не человек: советы не заменяют осмотр машины.",
+      "version": "1.0",
+      "versionDate": "2026-10-11",
+      "versionDescription": "Новая сборка.",
+      "downloadURL": "https://github.com/Maverlix777/doktor-sidestore/releases/download/v1.0/Doktor.ipa",
+      "size": "662801",
+      "tintColor": "#F5A623"
+    }
+  ],
+  "news": []
+}
