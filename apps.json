@@ -10,13 +10,13 @@
       "developerName": "Максим",
       "subtitle": "ИИ-диагност по данным OBD",
       "localizedDescription": "Читает данные с OBD-адаптера, разбирает смесь, лямбды, катализатор, коды и Mode $06 и даёт простой вердикт. Это ИИ-помощник, не человек: советы не заменяют осмотр машины.",
-      "version": "1.0.2",
-      "versionDate": "2026-10-11T04:45:35+00:00",
-      "versionDescription": "Кузовные блоки: кнопка «Проверить блоки» (ABS/SRS/приборка и др., только чтение). Ford Mode 22, ATF.",
-      "downloadURL": "https://github.com/Maverlix777/doktor-sidestore/releases/download/v1.0.2/Doktor.ipa",
-      "size": 677391,
+      "version": "1.0.3",
+      "versionDate": "2026-10-18T00:05:44+00:00",
+      "versionDescription": "Температура коробки (ATF) раз в 5 секунд для проверки уровня масла",
+      "downloadURL": "https://github.com/Maverlix777/doktor-sidestore/releases/download/v1.0.3/Doktor.ipa",
+      "size": 6565410,
       "tintColor": "#F5A623",
-      "sha256": "eaa1ac7b92d118b6e301ffb0184bad3b8461d7a63bf00e40561aa3ab7795ab33"
+      "sha256": "13a7480f5904c97261b6bdebf65a61f45e1178e673c629165008f4c9bc60b67c"
     }
   ],
   "news": []
